@@ -1,4 +1,4 @@
-# foreman_hyperv
+# foreman_hyperv Centos 8 Stream
 This script is not guarenteed in any way. You ue it at your own risk.
 Fully updated Centos 8, foreman 2.4, katello 4.0. 
 Installs foreman_hyperv and dependencies including gems for Centos 8, Foreman 2.4, Katello.4.0
