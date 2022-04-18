@@ -1,4 +1,4 @@
-# foreman_hyperv for CentOS 8.3.2011 | Doe foreman hyper-c for CentOS 8 Stream, go too https://github.com/eevans6913/foreman_hyperv/tree/eevans6913-Xentos-8-stream
+# foreman_hyperv for CentOS 8.3.2011 | For foreman 3 hyper-v  for CentOS 8 Stream, go too https://github.com/eevans6913/foreman_hyperv/tree/eevans6913-Xentos-8-stream
 This script is not guarenteed in any way. You ue it at your own risk.
 Fully updated Centos 8, foreman 2.4, katello 4.0. 
 Installs foreman_hyperv and dependencies including gems for Centos 8, Foreman 2.4, Katello.4.0
