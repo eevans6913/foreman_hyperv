@@ -8,6 +8,6 @@ Wgen you list you hv in the foreman compute resource section, the hostname needs
 
 Example http(s)://HV-NAME.example.com:5985/wsman
 
-Make sure your HV servers have need prepared with winrm auickconfig or Enable-PSRemoting.
+Make sure your HV servers have need prepared with winrm quickconfig or Enable-PSRemoting.
 
 If you have anyissues, please let me know.
